@@ -281,3 +281,6 @@ dmypy.json
 cython_debug/
 
 !/.gitignore
+
+# VS code
+100knocks-preprocess.code-workspace
